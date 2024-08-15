@@ -2,8 +2,8 @@ import doncannuto from "./doncannuto.svg";
 import instagram from "./INSTAGRAM.svg";
 import facebook from "./FACEBOOK.svg";
 import whatsapp from "./WHATSAPP.svg";
-import linkedin from "./linkedin.svg";
-import menu from "./menu.svg";
+import linkedin from "./LINKEDIN.svg";
+import menu from "./MENU.svg";
 import hat from "./hat.svg"
 import bigodin from "./bigodin.svg"
 import xadrez from "./xadrez.svg"
