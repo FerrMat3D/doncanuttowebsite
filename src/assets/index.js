@@ -1,6 +1,6 @@
 import doncannuto from "./doncannuto.svg";
 import instagram from "./INSTAGRAM.svg";
-import facebook from "./facebook.svg";
+import facebook from "./FACEBOOK.svg";
 import whatsapp from "./WHATSAPP.svg";
 import linkedin from "./linkedin.svg";
 import menu from "./menu.svg";
