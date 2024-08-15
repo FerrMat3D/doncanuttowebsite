@@ -1,0 +1,3 @@
+const texto_vip_01 = "A barbearia Don Canutto inova lançando a primeira barbearia de recorrência em Assis !!! </br> O plano que se inspira em grandes empresas de recorrência como Netflix e Smart Fit, consiste em um serviço de assinatura mensal para cabelo e barba que permite cortes ilimitados.</br>Realize seu cadastro através do link ou na própria barbearia e corte seu cabelo e barba quantas vezes quiser! </br> Por isso a Barbearia Don Canutto é perfeita para quem busca sua melhor versão a cada dia.";
+
+export { texto_vip_01 };
